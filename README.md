@@ -9,3 +9,5 @@ After you input it, the receiver will wait for packets from sender side.
 
 Run sender, and then input values of IP Address, Window size, Timeout interval, and file name.
 Then the sender will send packet to receiver.
+
+This assignment is held on Introduction to Computer Networks class in SKKU.
