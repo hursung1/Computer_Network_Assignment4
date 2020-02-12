@@ -1,4 +1,4 @@
-# SKKU Computer_Network_Assignment4
+# Computer_Network_Assignment4
 Pipelined Reliable Data Transfer on UDP (But not completed! Especially packet timeout part.)
 
 As description says, these 2 files are for pipelined reliable data transfer on UDP.
@@ -10,4 +10,4 @@ After you input it, the receiver will wait for packets from sender side.
 Run sender, and then input values of IP Address, Window size, Timeout interval, and file name.
 Then the sender will send packet to receiver.
 
-This assignment is held on Introduction to Computer Networks class in SKKU.
+This assignment is held on Introduction to Computer Networks class in my college.
