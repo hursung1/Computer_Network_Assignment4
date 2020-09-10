@@ -1,5 +1,5 @@
-# Computer_Network_Assignment4
-Pipelined Reliable Data Transfer on UDP (But not completed! Especially packet timeout part.)
+# Pipelined Reliable Data Transfer on UDP
+Not completed. Especially packet timeout part.
 
 As description says, these 2 files are for pipelined reliable data transfer on UDP.
 
